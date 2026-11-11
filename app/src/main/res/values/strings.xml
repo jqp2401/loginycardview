@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+
+    <!-- Login -->
+    <string name="titulo_login">Login</string>
+    <string name="btn_validar">Validar</string>
+    <string name="msg_error_validacion">Usuario o contraseña incorrectos</string>
+
+    <!-- Principal -->
+    <string name="mensaje_sesion">Has iniciado sesion</string>
+</resources>
